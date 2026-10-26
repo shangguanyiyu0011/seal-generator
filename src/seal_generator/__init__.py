@@ -1,0 +1,1 @@
+"""Seal generator package."""
